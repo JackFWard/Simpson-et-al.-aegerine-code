@@ -1,7 +1,7 @@
 # Simpson-et-al.-aegerine-code
 Repository for code associated with "Volatile saturation driving rare earth element enrichment in peralkaline magmas recorded by aegirine sector zoning"
 
-This repository contains the code used analyse the GEOROC clinopyroxene compilation.
+This repository contains the code used to analyse the GEOROC clinopyroxene compilation.
 
 To run these codes, you must install all packages and set your working directory appropriately. Feel free to contact me (Jack Ward) at jack.ward1@uqconnect.edu.au if you have any questions! I have included basic descriptions of the codes below.
 
