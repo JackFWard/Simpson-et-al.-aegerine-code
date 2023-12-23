@@ -7,7 +7,7 @@ To run these codes, you must install all packages and set your working directory
 
 01_Simpson_GEOROC_Clinopyroxene_Formatting_Code:
   - This first script formats and filters the GEOROC file "2023-06-SGFTN_Clinopyroxenes_Simpson.csv".
-  - To install the necessary packages, run this code: install. packages(c("tidyverse", "patchwork", "ggsci, "scico", "skimr", "ggtern))
+  - To install the necessary packages, run this code: install. packages(c("tidyverse", "patchwork", "ggsci, "scico", "skimr", "ggtern"))
   - You must set your directory in line 10.
       - If you are using Windows, you can copy the file path from File Explorer ("C:\\Users\\...).
       - If you are using MacOS, right-click on the file in Finder, select "Get Info", and copy the file path from "Where".
