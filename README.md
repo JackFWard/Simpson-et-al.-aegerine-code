@@ -1,5 +1,5 @@
 # Simpson-et-al.-aegerine-code
-Repository for code associated with "Volatile saturation driving rare earth element enrichment in peralkaline magmas recorded by aegirine sector zoning"
+Repository for code associated with "Global controls on clinopyroxene evolution in peralkaline magmas and implications for critical metal enrichment"
 
 This repository contains the code used to analyse the GEOROC clinopyroxene compilation.
 
