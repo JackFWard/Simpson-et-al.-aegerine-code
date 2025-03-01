@@ -18,4 +18,4 @@ To run these codes, you must install all packages and set your working directory
  - This code performs the remaining formatting corrections, classifies the data, and generates plots used in the paper.
  - The input file is "2023-06-SGFTN_Clinopyroxenes_Simpson_CalcStructuralFormulae.csv".
 
-Feel free to contact me (Jack Ward) at jack.ward1@uqconnect.edu.au if you have any questions!
+Feel free to contact me (Jack Ward) at jack.ward@utas.edu.au if you have any questions!
