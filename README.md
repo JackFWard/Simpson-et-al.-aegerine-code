@@ -14,7 +14,7 @@ To run these codes, you must install all packages and set your working directory
   - The exported file "GEOROC_Clinopyroxene_Working_Simpson_Formatted.csv" is formatted so that it can be copied into the Excel sheet "Simpson_GEOROC_Clinopyroxene_Structural_Formulae", which performs the necessary stoichiometry calculations.
   - A .csv version of this file is provided here.
 
-02_Simpson_GEOROC_Clinopyroxene_Formatting_Code:
+02_Simpson_GEOROC_Clinopyroxene_Plotting_Code:
  - This code performs the remaining formatting corrections, classifies the data, and generates plots used in the paper.
  - The input file is "2023-06-SGFTN_Clinopyroxenes_Simpson_CalcStructuralFormulae.csv".
 
